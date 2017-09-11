@@ -1,0 +1,6 @@
+version: 0.0
+os: linux
+files:
+  - source: target/aws-1.0-SNAPSHOT.jar
+    destination: /home/ec2-user/
+
